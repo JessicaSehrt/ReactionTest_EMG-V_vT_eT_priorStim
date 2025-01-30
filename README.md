@@ -8,7 +8,7 @@ Intended to be used for visual, vibrotactile (2), and electrotactile (3) prior s
 To motivate further investigations on the base of this research we provide the dataset including the Unity project, the log files from the studies, and the scripts we used for the evaluation. 
 A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here, coming soon*).
 
-You find the whole evaluation data for the muscle location study here: https://www.dropbox.com/home/Evaluation%20EMG%20Biofeedback%20Modality/Evaluation%20EMG%20REACTION
+You find the whole evaluation data for the muscle reaction study here: https://www.dropbox.com/home/Evaluation%20EMG%20Biofeedback%20Modality/Evaluation%20EMG%20REACTION
 
 We investigated whether prior stimulation using visual or tactile cues at four different target muscles (biceps, triceps, upper leg, calf) can help reduce the time to perform isometric muscle contractions in a response-based VR experiment (N=21). 
 
