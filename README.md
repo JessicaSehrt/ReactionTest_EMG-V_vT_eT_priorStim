@@ -7,7 +7,7 @@ Intended to be used for visual, vibrotactile (2), and electrotactile (3) prior s
 9520268).
 
 To motivate further investigations on the base of this research we provide the dataset including the Unity project, the log files from the studies, and the scripts we used for the evaluation. 
-A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here, coming soon*).
+A detailed description of the study procedure and hardware integration can be found in the related publication (see below).
 
 You find the whole evaluation data for the muscle reaction study here: https://www.dropbox.com/scl/fo/5wablb0jim8c85ifuk75n/AOhCXAQQkBtRjeaiL_F1bnM?rlkey=t2n3dhrgu9ublqeo1cc9wnqgu&st=swjn6rkm&dl=0
 
