@@ -1,13 +1,18 @@
-# Reaction test in VR with EMG interaction and multi-modal prior stimulation
+# Prior Stimulation Feedback to Improve EMG Reaction Times
 
-Unity Project and Arduino code for EMG multi-modal prior stimulation in Virtual Reality. Intended to use for visual, vibrotactile and electrotactile prior stimulation in an EMG based reaction test experiment.
+We investigated whether prior stimulation using visual or tactile cues at four different target muscles (biceps, triceps, upper leg, calf) can help reduce the time to perform isometric muscle contractions in a response-based VR experiment (N=21). 
+The results show that prior stimulation decreases EMG reaction times with visual, vibrotactile, and electrotactile cues. 
 
+Unity Project is created using the Biosignalplux Unity sample in Unity 2019.
+It was then migrated to 2021.3.5f1 and integrated the signal processing from biosignals to the biosignalplux EMG Sensor with the 4-Channel Hub from biosignalsplux.
+The project is implemented to work with a HTC Vive Pro Eye, Version 2022.
 
-Inclusion of scripts:
+Unity Project and Arduino code for EMG multi-modal prior stimulation in Virtual Reality. 
+Intended to be used for visual, vibrotactile, and electrotactile prior stimulation in an EMG-based reaction test experiment with isometric EMG input.
 
-MainLogic.cs - as Component of "Controller"
-FeedbackManager.cs - as Component of "Controller"
-PluxUnityInterface.cs - as Component of "EMG_Panel"
+To motivate further investigations on the base of this research we provide the dataset including the Unity project and the log files. A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here*). Please feel free to contact me if you have any questions.
+
+![conditionsPriorStim](https://github.com/user-attachments/assets/7e59d7f4-d2c0-483f-801f-84df284f256a)
 
 ```@inproceedings{SehrtCHI2024,
 author = {Sehrt, Jessica and Leite Ferreira, Leonardo and Weyers, Karsten and Mahmood, Amir and Kosch, Thomas and Schwind, Valentin},
