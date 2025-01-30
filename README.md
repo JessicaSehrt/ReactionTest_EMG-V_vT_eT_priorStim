@@ -12,7 +12,8 @@ Intended to be used for visual, vibrotactile (2), and electrotactile (3) prior s
 
 To motivate further investigations on the base of this research we provide the dataset including the Unity project and the log files. A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here*).
 
-![conditionsPriorStim](https://github.com/user-attachments/assets/7e59d7f4-d2c0-483f-801f-84df284f256a)
+![conditionsPriorStim](https://github.com/user-attachments/assets/98de6338-5edb-496c-bfa0-7993ef670dee)
+
 
 ```@inproceedings{SehrtCHI2024,
 author = {Sehrt, Jessica and Leite Ferreira, Leonardo and Weyers, Karsten and Mahmood, Amir and Kosch, Thomas and Schwind, Valentin},
