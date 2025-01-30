@@ -10,7 +10,10 @@ The project is implemented to work with a HTC Vive Pro Eye, Version 2022.
 Unity Project and Arduino code for EMG multi-modal prior stimulation in Virtual Reality. 
 Intended to be used for visual, vibrotactile (2), and electrotactile (3) prior stimulation in an EMG-based reaction test experiment with isometric EMG input.
 
-To motivate further investigations on the base of this research we provide the dataset including the Unity project and the log files. A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here*).
+To motivate further investigations on the base of this research we provide the dataset including the Unity project, the log files from the studies, and the scripts we used for the evaluation. 
+A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here, coming soon*).
+
+You find the whole evaluation data for the muscle location study here: https://www.dropbox.com/home/Evaluation%20EMG%20Biofeedback%20Modality/Evaluation%20EMG%20REACTION
 
 ![conditionsPriorStim](https://github.com/user-attachments/assets/98de6338-5edb-496c-bfa0-7993ef670dee)
 
