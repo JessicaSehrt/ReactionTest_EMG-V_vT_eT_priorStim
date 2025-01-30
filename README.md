@@ -3,7 +3,8 @@
 This research presents results that indicate that prior stimulation decreases EMG reaction times with visual, vibrotactile, and electrotactile cues and the fastest response by the calf muscle. 
 
 Unity Project is created using the Biosignalplux Unity sample in Unity 2019. It was then migrated to 2021.3.5f1 and integrated the signal processing from biosignals to the biosignalplux EMG Sensor (1) with the 4-Channel Hub from biosignalsplux. The project is implemented to work with a HTC Vive Pro Eye, Version 2022. Unity Project and Arduino code for EMG multi-modal prior stimulation in Virtual Reality. 
-Intended to be used for visual, vibrotactile (2), and electrotactile (3) prior stimulation in an EMG-based reaction test experiment with isometric EMG input.
+Intended to be used for visual, vibrotactile (2), and electrotactile (3) prior stimulation in an EMG-based reaction test experiment with isometric EMG input. It also integrates the output to 2 SEM 47 EMS/TENS devices with 2 Arduino UNO R3 connected to four solid-state relays (Vishay LH1546ADF optocoupler) acting like switches of the four TENS channels, as well as four coin-type vibration motors (Iduino TC-
+9520268).
 
 To motivate further investigations on the base of this research we provide the dataset including the Unity project, the log files from the studies, and the scripts we used for the evaluation. 
 A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here, coming soon*).
